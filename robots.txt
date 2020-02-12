@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chohquifie.kristynabujarkova.com/sitemap.xml
